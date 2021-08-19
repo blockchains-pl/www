@@ -1,10 +1,9 @@
 # www.blockchains.pl
 
-
++ [www.lokalnawaluta.pl](https://www.lokalnawaluta.pl/)
++ 
 Supported by Softreck 
-+ [Softreck | Leadership Through Software Development](https://softreck.com/)
-
-
++ [Softreck - Leadership Through Software Development](https://softreck.com/)
 + [Coinfirm – Blockchain Analytics](https://www.coinfirm.com/)
 
 ## Since 2016 Coinfirm has been powering the mass adoption of blockchain in the new financial system
