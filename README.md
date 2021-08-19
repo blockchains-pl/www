@@ -1,8 +1,9 @@
 # www.blockchains.pl
 
 + [www.lokalnawaluta.pl](https://www.lokalnawaluta.pl/)
-+ 
-Supported by Softreck 
+
+## Supported by Softreck 
+
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
 + [Coinfirm – Blockchain Analytics](https://www.coinfirm.com/)
 
