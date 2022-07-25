@@ -18,7 +18,27 @@ Proszę zwrócić uwagę, że jak NASK z nieznanych powodów blokuje domenę to 
 “Trwa postępowanie wyjaśniające [REGISTERED, ze statusem clientHold/serverHold]”
 “Utrzymywanie domeny zostało wstrzymane do czasu wyjaśnienia wątpliwości dotyczących współpracy z jej abonentem, np. w przypadku zaległości płatniczych u rejestratora, braku aktualizacji danych abonenta (pomimo wezwania), wykorzystywania domeny do celów zagrażających bezpieczeństwu sieci.”
 
-https://www.censura.pl/
+[O Projekcie censura.pl ✍ | www](https://www.censura.pl/)
+
+## Rejestracja domeny 
+
+Rejestracja domeny w ENS to nie tylko jednorazowy koszt $5 (07.2021), 
+Koszt operacji zwiększa koszty utrzymania, wobec czego aktualnie to jest to najdroższy system nazw.
+
+
+
+## Stereotypy
+
+"Firma bez nazwy ETH dla społeczności web3 jest jak firma, która zamiast adresu strony internetowej podaje swoim kontrahentom numer IP serwera."
+
+Trudno się zgodzić wiele firm używa domen internetowych .com jak priorytetową/domyślną a w web3 nie istnieją.
+Wiele projektów jednak jest na .com i podobnych a nie na .eth.
+
+
+## System nazw ENS
+
+ENS jest ciekawym pomysłem, jednak koszt jego adopcji dla ludzi w tej chwili jest za wysoki, żeby był powszechnie przyjęty 
+DNS działa i jest tani a koszty utrzymania infrastruktury są przewidywalne.
 
 
 
