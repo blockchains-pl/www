@@ -2,7 +2,28 @@
 
 + [www.lokalnawaluta.pl](https://www.lokalnawaluta.pl/)
 
+
+Aktualnie mamy sytuację w której blockchain jest udostępniany na giełdy poprzez API, więc kontrola tych "mostów" sprawia, że nie jest to zdecentralizowany system.
+Tego typu architektura została zweryfikowana podczas protestów w Kanadzie, gdzie nie było możliwości zbierania środków krypto i było to blokowane przez represyjny rząd.
+
+## architektura
+
+To architektura determinuje możliwości, a nie sam blockchain, mimo że istnieje jako zdecentralizowana struktura to działa warstwie. która nie jest dostępna dla użytkownika bezpośrednio, bo jak widać, nawet domeny dla web3 nie działają na każdej przeglądarce.
+
+To wcale nie musi ulec zmianie na korzyść web3, bo to decyzje polityczne.
+
+## Domeny internetowe
+
+Proszę zwrócić uwagę, że jak NASK z nieznanych powodów blokuje domenę to daje taki komunikat:
+“Trwa postępowanie wyjaśniające [REGISTERED, ze statusem clientHold/serverHold]”
+“Utrzymywanie domeny zostało wstrzymane do czasu wyjaśnienia wątpliwości dotyczących współpracy z jej abonentem, np. w przypadku zaległości płatniczych u rejestratora, braku aktualizacji danych abonenta (pomimo wezwania), wykorzystywania domeny do celów zagrażających bezpieczeństwu sieci.”
+
+https://www.censura.pl/
+
+
+
 ## Supported by Softreck 
+
 
 + [Softreck - Leadership Through Software Development](https://softreck.com/)
 + [Coinfirm – Blockchain Analytics](https://www.coinfirm.com/)
