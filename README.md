@@ -41,6 +41,10 @@ ENS jest ciekawym pomysłem, jednak koszt jego adopcji dla ludzi w tej chwili je
 DNS działa i jest tani a koszty utrzymania infrastruktury są przewidywalne.
 
 
+Korzyści z blockchain'u a widzę jako uzupełnienie aktualnego systemu rozliczeniowego na poziomie mikrotransakcji.
+
+Istnienie publicznego Blockchainu ma sens w prywatnej sieci 4G/5G które dopiero wprowadzają możliwość rewolucji o której marzą kryptowaluciarze, po prostu nie można jednym argumentem podważać istnienia tego dorobku jaki mamy, bo to jest nielogiczne i trudno rozmawiać bez szerszej perspektywy. W Kanadzie blockhain się nie sprawdził jako nieograniczona platforma wymiany, liczmy się z faktami.
+
 
 ## Supported by Softreck 
 
