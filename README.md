@@ -34,6 +34,21 @@ Koszt operacji zwiększa koszty utrzymania, wobec czego aktualnie to jest to naj
 Trudno się zgodzić wiele firm używa domen internetowych .com jak priorytetową/domyślną a w web3 nie istnieją.
 Wiele projektów jednak jest na .com i podobnych a nie na .eth.
 
+Technicznie lepiej jest używać skrótów, tylko poozstaje otwarte pytanie o prywatność?
+
+## Innowacje
+
+Innowacje nie są najważniejsze, motorem gospodarki nie są technologie a protekcjonizm i inne metody niszczenia konkurentów.
+Proszę nie zapominać, że Niemcy nie są liderem, bo mają najlepsze technologie, ale dlatego, że kreują otoczenie.
+
+Kraje sąsiadujące są kontrolowane przez Niemcy w mniejszym lub większym stopniu do zapewniania rynku zbytu i taniej siły roboczej dla Niemiec, dlatego mają wyższe marże.
+
+## Rozwój firmy
+
+Firma, która rozwija się w Polsce nie może korzystać z tak bogatego zaplecza jakie mają Niemcy, finalnie nawet mniej rentowna spółka jest lepiej finansowana, bo jest z czego.
+Nie chodzi o to by być najlepszym technicznie, ale by najlepiej zarabiać, a tego się nie da zrobić podlegając represji nieprzyjaznym a wręcz wrogim rządom.
+Estonia to kierunek dla firm technologicznych.
+Polska zaplecze do wyspecjalizowanej i taniej siły roboczej.
 
 ## System nazw ENS
 
